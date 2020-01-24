@@ -1,4 +1,5 @@
 ﻿using System;
+using Practice.Ctci;
 
 namespace Practice.Console
 {
@@ -6,7 +7,10 @@ namespace Practice.Console
     {
         static void Main(string[] args)
         {
-            System.Console.WriteLine("Hello World!");
+            var input = "abcdabc";
+            var stringPalindrome = new StringPalindrome();
+            var result = stringPalindrome.checkPalindrome(input);
+            System.Console.WriteLine(result);
         }
     }
 }

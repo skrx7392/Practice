@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice.Console", "Practic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice.Ctci", "Practice.Ctci\Practice.Ctci.csproj", "{32887DCB-698F-484E-8718-401BD566FD6A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice.Test", "Practice.Test\Practice.Test.csproj", "{E825DAED-8CC6-4788-8155-BF2C30CBCAC9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{32887DCB-698F-484E-8718-401BD566FD6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32887DCB-698F-484E-8718-401BD566FD6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32887DCB-698F-484E-8718-401BD566FD6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E825DAED-8CC6-4788-8155-BF2C30CBCAC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E825DAED-8CC6-4788-8155-BF2C30CBCAC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E825DAED-8CC6-4788-8155-BF2C30CBCAC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E825DAED-8CC6-4788-8155-BF2C30CBCAC9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
